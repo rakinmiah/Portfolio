@@ -2,8 +2,8 @@ import SectionHeading from "./SectionHeading";
 
 export default function About() {
   return (
-    <section className="px-6 sm:px-12 lg:px-16 py-20 lg:py-32">
-      <div className="w-full max-w-4xl mx-auto">
+    <section className="px-6 sm:px-12 lg:px-16 py-16 lg:py-24">
+      <div className="w-full max-w-5xl mx-auto">
         <SectionHeading>
           <p className="text-small text-muted uppercase tracking-widest font-sans">
             About

@@ -2,7 +2,7 @@ import SectionHeading from "./SectionHeading";
 
 export default function Contact() {
   return (
-    <section className="px-6 sm:px-12 lg:px-16 py-24 lg:py-40">
+    <section className="px-6 sm:px-12 lg:px-16 py-20 lg:py-28">
       <div className="max-w-3xl mx-auto text-center">
         <SectionHeading>
           <p className="text-small text-muted uppercase tracking-widest font-sans">

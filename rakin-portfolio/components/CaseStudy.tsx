@@ -10,7 +10,7 @@ export default function CaseStudy() {
   return (
     <section
       id="case-study"
-      className="px-6 sm:px-12 lg:px-16 py-20 lg:py-32 scroll-mt-12"
+      className="px-6 sm:px-12 lg:px-16 py-16 lg:py-24 scroll-mt-12"
     >
       <div className="max-w-7xl mx-auto">
         <div className="max-w-5xl mx-auto">

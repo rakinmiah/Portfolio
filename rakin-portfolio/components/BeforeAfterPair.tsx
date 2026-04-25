@@ -82,7 +82,7 @@ export default function BeforeAfterPair({
           </figcaption>
         </motion.figure>
       </div>
-      <div className="font-sans text-ink text-body max-w-3xl leading-relaxed">
+      <div className="font-sans text-ink text-body leading-relaxed">
         {rationale}
       </div>
     </div>
